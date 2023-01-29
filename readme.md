@@ -5,7 +5,9 @@
 # Approach
 1. used watershed algorithm to detect rice from the image and to get the area .
 2. using area ,build a ml algorithm to differentiate broken and full grain
+
 ![](../../Downloads/Blank diagram.png)
+
 # Repository detail
 This repository contains a Python script that utilizes the contour and watershed algorithms to count the number of grains of rice in an image. The script is implemented using the OpenCV library.
 
